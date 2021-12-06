@@ -11297,6 +11297,7 @@ html {
   font-size: 0.9rem;
   font-weight: 700;
   letter-spacing: 0.1rem;
+  
 }
 
 .navbar-custom {
@@ -11322,7 +11323,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: linear-gradient(180deg, #ff0000 0%, #FFFFFF 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -11332,10 +11333,10 @@ header.masthead .masthead-content {
   z-index: 1;
   position: relative;
 }
-header.masthead .masthead-content .masthead-heading {
+header.masthead .masthead-content {
   font-size: 4rem;
 }
-header.masthead .masthead-content .masthead-subheading {
+header.masthead .masthead-content {
   font-size: 2rem;
 }
 header.masthead .bg-circle {
@@ -11367,6 +11368,12 @@ header.masthead .bg-circle-4 {
   width: 30rem;
   top: -5rem;
   right: 35%;
+}
+
+.Logo{
+
+  height: 30%;
+  width: 30%;
 }
 
 @media (min-width: 992px) {

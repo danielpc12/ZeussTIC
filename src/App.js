@@ -1,9 +1,10 @@
-import Navbar from "./components/navbar";
-import Header from "./components/header";
-import SectionOne from "./components/section-one";
-import SectionTwo from "./components/section-two";
-import SectionThree from "./components/section-three";
-import Footer from "./components/footer";
+import Navbar from "./components/Main/navbar";
+import Header from "./components/Main/header";
+import SectionOne from "./components/Main/section-one";
+import SectionTwo from "./components/Main/section-two";
+import SectionThree from "./components/Main/section-three";
+import Footer from "./components/Main/footer";
+
 
 function App() {
   return (
